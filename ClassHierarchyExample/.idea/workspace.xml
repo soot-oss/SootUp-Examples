@@ -4,19 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="030c770c-a4f1-4513-b67b-b9aa0a35d666" name="Changes" comment="" />
+    <list default="true" id="0a98143c-2329-49fa-9928-b7e2e6490826" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="main" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/sootup/examples/ClassHierarchy.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -24,10 +22,7 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
-}</component>
-  <component name="ProjectId" id="2b2zyZyeQj4IeZTToE8kwBWtzfd" />
+  <component name="ProjectId" id="2YZpBKMV7A381FevtXvYjak6gsQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -40,7 +35,6 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.ClassHierarchy.executor": "Run",
     "Maven.sootup.examples [clean].executor": "Run",
-    "Maven.sootup.examples [com.coveo:fmt-maven-plugin:2.8:format].executor": "Run",
     "Maven.sootup.examples [compile].executor": "Run",
     "Maven.sootup.examples [install].executor": "Run",
     "Maven.sootup.examples [package].executor": "Run",
@@ -48,49 +42,74 @@
     "Maven.sootup.examples [verify].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "ClassHierarchy",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Project",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/ClassHierarchy/src/main/resources",
+    "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ClassHierarchy\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ClassHierarchy\src\test\resources\ClassHierarchy" />
+      <recent name="E:\ClassHierarchy\src\test\resources\ClassHierarchy\binary" />
+      <recent name="E:\ClassHierarchy\src\test\resources" />
+      <recent name="E:\ClassHierarchy\src\test\resources\binary" />
+      <recent name="E:\ClassHierarchy\src\test" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="ClassHierarchyExample" />
+    <configuration name="ClassHierarchy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sootup.examples.ClassHierarchy" />
+      <module name="sootup.examples" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="ClassHierarchyExample" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClassHierarchy" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-1.8.0_392-corretto-1.8.0_392-4caba194b151-3e25d5f1" />
-        <option value="jdk-19.0.2-corretto-19.0.2-4caba194b151-48ba4555" />
+        <option value="jdk-1.8.0_392-liberica-1.8.0_392-4caba194b151-e5263a6e" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="030c770c-a4f1-4513-b67b-b9aa0a35d666" name="Changes" comment="" />
-      <created>1705428216623</created>
+      <changelist id="0a98143c-2329-49fa-9928-b7e2e6490826" name="Changes" comment="" />
+      <created>1700742819394</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1705428216623</updated>
+      <updated>1700742819394</updated>
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

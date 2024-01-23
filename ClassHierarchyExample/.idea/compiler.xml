@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="sootup.examples" target="1.8" />
+      <module name="ClassHierarchy" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
