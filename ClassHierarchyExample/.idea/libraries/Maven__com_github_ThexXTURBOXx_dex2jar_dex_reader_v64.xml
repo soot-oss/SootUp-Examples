@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.ThexXTURBOXx.dex2jar:dex-reader:v64" type="java-imported" external-system-id="Maven">
+    <properties groupId="com.github.ThexXTURBOXx.dex2jar" artifactId="dex-reader" version="v64" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/ThexXTURBOXx/dex2jar/dex-reader/v64/dex-reader-v64.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/ThexXTURBOXx/dex2jar/dex-reader/v64/dex-reader-v64-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/ThexXTURBOXx/dex2jar/dex-reader/v64/dex-reader-v64-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

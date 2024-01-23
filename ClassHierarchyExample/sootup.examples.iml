@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="$MODULE_DIR$/pom.xml" external.system.module.type="SINGLE_MODULE" external.system.module.version="223-2" org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/target/generated-sources/annotations" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/target/generated-test-sources/test-annotations" isTestSource="true" generated="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.soot-oss:sootup.callgraph:1.1.2-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.jgrapht:jgrapht-core:1.3.1" level="project" />
+    <orderEntry type="library" name="Maven: org.jheaps:jheaps:0.10" level="project" />
+    <orderEntry type="library" name="Maven: org.soot-oss:sootup.core:1.1.2-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.soot-oss:sootup.java.bytecode:1.1.2-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.ow2.asm:asm-util:9.5" level="project" />
+    <orderEntry type="library" name="Maven: org.ow2.asm:asm:9.5" level="project" />
+    <orderEntry type="library" name="Maven: org.ow2.asm:asm-tree:9.5" level="project" />
+    <orderEntry type="library" name="Maven: org.ow2.asm:asm-analysis:9.5" level="project" />
+    <orderEntry type="library" name="Maven: org.ow2.asm:asm-commons:9.5" level="project" />
+    <orderEntry type="library" name="Maven: com.github.ThexXTURBOXx.dex2jar:dex-tools:v64" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.github.ThexXTURBOXx.dex2jar:dex-translator:v64" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.android.tools:r8:4.0.63" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.github.ThexXTURBOXx.dex2jar:d2j-smali:v64" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.antlr:antlr4:4.9.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.antlr:ST4:4.3.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.abego.treelayout:org.abego.treelayout.core:1.0.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.glassfish:javax.json:1.0.4" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.ibm.icu:icu4j:69.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.antlr:antlr-runtime:3.5.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.github.ThexXTURBOXx.dex2jar:d2j-jasmin:v64" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.antlr:antlr:3.5.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.github.ThexXTURBOXx.dex2jar:dex-writer:v64" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.github.ThexXTURBOXx.dex2jar:dex-ir:v64" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.github.ThexXTURBOXx.dex2jar:dex-reader-api:v64" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.github.ThexXTURBOXx.dex2jar:dex-reader:v64" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.github.ThexXTURBOXx.dex2jar:d2j-base-cmd:v64" level="project" />
+    <orderEntry type="library" name="Maven: org.soot-oss:sootup.java.core:1.1.2-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.soot-oss:sootup.java.sourcecode:1.1.2-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.ibm.wala:com.ibm.wala.core:1.5.9" level="project" />
+    <orderEntry type="library" name="Maven: com.ibm.wala:com.ibm.wala.cast:1.5.9" level="project" />
+    <orderEntry type="library" name="Maven: com.ibm.wala:com.ibm.wala.cast.java:1.5.9" level="project" />
+    <orderEntry type="library" name="Maven: com.ibm.wala:com.ibm.wala.cast.java.ecj:1.5.9" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.platform:org.eclipse.core.runtime:3.17.100" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.platform:org.eclipse.osgi:3.14.0" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.platform:org.eclipse.equinox.common:3.14.100" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.platform:org.eclipse.core.jobs:3.9.3" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.platform:org.eclipse.equinox.registry:3.11.200" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.platform:org.eclipse.equinox.preferences:3.9.100" level="project" />
+    <orderEntry type="library" name="Maven: org.osgi:org.osgi.service.prefs:1.1.2" level="project" />
+    <orderEntry type="library" name="Maven: org.osgi:osgi.annotation:8.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.platform:org.eclipse.core.contenttype:3.7.1000" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.platform:org.eclipse.equinox.app:1.6.200" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jdt:org.eclipse.jdt.core:3.14.0" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.platform:org.eclipse.core.resources:3.14.0" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.platform:org.eclipse.core.expressions:3.8.200" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.platform:org.eclipse.core.filesystem:1.9.500" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.platform:org.eclipse.text:3.12.300" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.platform:org.eclipse.core.commands:3.9.700" level="project" />
+    <orderEntry type="library" name="Maven: com.ibm.wala:com.ibm.wala.util:1.5.9" level="project" />
+    <orderEntry type="library" name="Maven: com.ibm.wala:com.ibm.wala.shrike:1.5.9" level="project" />
+    <orderEntry type="library" name="Maven: com.ibm.wala:com.ibm.wala.dalvik:1.5.9" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.smali:dexlib2:2.5.2" level="project" />
+    <orderEntry type="library" name="Maven: org.soot-oss:sootup.jimple.parser:1.1.2-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: org.antlr:antlr4-runtime:4.7.2" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:2.0.5" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-simple:2.0.5" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.12.0" level="project" />
+    <orderEntry type="library" name="Maven: commons-io:commons-io:2.11.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:guava:32.0.1-jre" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:failureaccess:1.0.1" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava" level="project" />
+    <orderEntry type="library" name="Maven: org.checkerframework:checker-qual:3.33.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.errorprone:error_prone_annotations:2.18.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.j2objc:j2objc-annotations:2.8" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.13.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.findbugs:jsr305:3.0.2" level="project" />
+  </component>
+</module>

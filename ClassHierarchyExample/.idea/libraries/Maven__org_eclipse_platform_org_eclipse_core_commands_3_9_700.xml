@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: org.eclipse.platform:org.eclipse.core.commands:3.9.700" type="java-imported" external-system-id="Maven">
+    <properties groupId="org.eclipse.platform" artifactId="org.eclipse.core.commands" version="3.9.700" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/platform/org.eclipse.core.commands/3.9.700/org.eclipse.core.commands-3.9.700.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/platform/org.eclipse.core.commands/3.9.700/org.eclipse.core.commands-3.9.700-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/platform/org.eclipse.core.commands/3.9.700/org.eclipse.core.commands-3.9.700-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
