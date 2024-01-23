@@ -37,14 +37,14 @@ public class ClassHierarchy {
     final ViewTypeHierarchy typeHierarchy = new ViewTypeHierarchy(view);
 
     // Specify class types we want to receive information about
-    JavaClassType clazzTypeA = JavaIdentifierFactory.getInstance().getClassType("ClassHierarchy.A");
-    JavaClassType clazzTypeC = JavaIdentifierFactory.getInstance().getClassType("ClassHierarchy.C");
+    JavaClassType clazzTypeA = JavaIdentifierFactory.getInstance().getClassType("A");
+    JavaClassType clazzTypeC = JavaIdentifierFactory.getInstance().getClassType("C");
 
     // Check direct subtypes
     Set<ClassType> subtypes = typeHierarchy.directSubtypesOf(clazzTypeC);
     boolean allSubtypesAreD = subtypes.stream().allMatch(type -> type.getClassName().equals("D"));
     boolean allSubtypesFullyQualifiedAreD =
-        subtypes.stream().allMatch(type -> type.getFullyQualifiedName().equals("ClassHierarchy.D"));
+        subtypes.stream().allMatch(type -> type.getFullyQualifiedName().equals("D"));
 
     if (allSubtypesAreD && allSubtypesFullyQualifiedAreD) {
       System.out.println("All direct subtypes of Class C are correctly identified as Class D.");
