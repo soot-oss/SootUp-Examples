@@ -11,3 +11,5 @@ Example code to help getting start with SootUp
    e) MutatingSootClass
 
 3) We have included all the five projects in 5 different branches under SootUp-Examples with detailed explanation about the project.
+
+a) BasicSetup
