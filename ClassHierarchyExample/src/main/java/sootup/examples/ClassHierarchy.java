@@ -23,7 +23,7 @@ import sootup.java.core.views.JavaView;
  */
 public class ClassHierarchy {
 
-  public void test() {
+  public static void main(String[] args) {
     // Create a AnalysisInputLocation, which points to a directory. All class files will be loaded
     // from the directory
     List<AnalysisInputLocation> inputLocations = new ArrayList<>();
@@ -63,10 +63,5 @@ public class ClassHierarchy {
     }
   }
 
-  public static void main(String[] args) {
-    // Create an instance of ClassHierarchy
-    ClassHierarchy hierarchy = new ClassHierarchy();
-    // Call the test method
-    hierarchy.test();
-  }
+
 }

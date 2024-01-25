@@ -14,15 +14,9 @@ import sootup.java.core.views.JavaView;
 
 /** This example illustrates how to invoke body interceptors. */
 public class BodyInterceptor {
+
+
   public static void main(String[] args) {
-    // Create an instance of BodyInterceptor
-    BodyInterceptor interceptor = new BodyInterceptor();
-
-    // Call the test method
-    interceptor.test();
-  }
-
-  public void test() {
     // Create a AnalysisInputLocation, which points to a directory. All class files will be loaded
     // from the directory
     AnalysisInputLocation inputLocation =

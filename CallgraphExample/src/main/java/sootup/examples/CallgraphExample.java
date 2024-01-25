@@ -21,7 +21,7 @@ import sootup.java.core.views.JavaView;
 
 public class CallgraphExample {
 
-  public void test() {
+  public static void main(String[] args) {
     // Create a AnalysisInputLocation, which points to a directory. All class files will be loaded
     // from the directory
     List<AnalysisInputLocation> inputLocations = new ArrayList<>();
@@ -55,11 +55,5 @@ public class CallgraphExample {
     cg.callsFrom(entryMethodSignature).forEach(System.out::println);
   }
 
-  public static void main(String[] args) {
-    // Create an instance of CallgraphExample
-    CallgraphExample example = new CallgraphExample();
 
-    // Call the test method
-    example.test();
-  }
 }

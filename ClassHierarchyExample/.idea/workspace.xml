@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a98143c-2329-49fa-9928-b7e2e6490826" name="Changes" comment="" />
+    <list default="true" id="0a98143c-2329-49fa-9928-b7e2e6490826" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../BasicSetupExample/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicSetupExample/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BasicSetupExample/src/main/java/sootup/examples/BasicSetup.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BasicSetupExample/src/main/java/sootup/examples/BasicSetup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BodyInterceptorExample/src/main/java/sootup/examples/BodyInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BodyInterceptorExample/src/main/java/sootup/examples/BodyInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CallgraphExample/src/main/java/sootup/examples/CallgraphExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CallgraphExample/src/main/java/sootup/examples/CallgraphExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sootup/examples/ClassHierarchy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sootup/examples/ClassHierarchy.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,9 +29,9 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2YZpBKMV7A381FevtXvYjak6gsQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,7 +55,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/SootupEx/MutatingSootClassEx",
+    "last_opened_file_path": "E:/SootupEx/MutatingSootClassExample",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",

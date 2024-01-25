@@ -18,7 +18,7 @@ import sootup.java.core.views.JavaView;
 /** This example illustrates how to create and use a new Soot Project. */
 public class BasicSetup {
 
-  public void createByteCodeProject() {
+  public static void main(String[] args) {
     // Create a AnalysisInputLocation, which points to a directory. All class files will be loaded
     // from the directory
     Path pathToBinary = Paths.get("src/test/resources/Basicsetup/binary");
@@ -78,9 +78,5 @@ public class BasicSetup {
     }
   }
 
-  public static void main(String[] args) {
-    // Call the existing methods inside the main method
-    BasicSetup basicSetup = new BasicSetup();
-    basicSetup.createByteCodeProject();
-  }
+
 }
