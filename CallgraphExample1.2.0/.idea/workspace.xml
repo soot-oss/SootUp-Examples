@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c8dd31a-3727-4407-85ba-05f41e2c28b1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sootup/examples/CallgraphExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Callgraph/binary/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Callgraph/binary/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Callgraph/binary/C.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Callgraph/binary/D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Callgraph/source/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Callgraph/source/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Callgraph/source/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Callgraph/source/D.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2YZo58MDGqLOneqadm9WN47YFdx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.sootup.examples.CallgraphExample.executor": "Run",
+    "Maven.sootup.examples [clean].executor": "Run",
+    "Maven.sootup.examples [compile].executor": "Run",
+    "Maven.sootup.examples [install].executor": "Run",
+    "Maven.sootup.examples [package].executor": "Run",
+    "Maven.sootup.examples [validate].executor": "Run",
+    "Maven.sootup.examples [verify].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/v1.2.0/ClassHierarchy",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\CallgraphExample\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\CallgraphExample\src\test\resources\Callgraph\source" />
+      <recent name="E:\CallgraphExample\src\test\resources\Callgraph\" />
+      <recent name="E:\CallgraphExample\src\test\resources\Callgraph" />
+      <recent name="E:\CallgraphExample\src\test\resources\Callgraph\binary" />
+      <recent name="E:\CallgraphExample\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.sootup.examples.CallgraphExample">
+    <configuration name="CallgraphExample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="liberica-1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="sootup.examples.callgraph.CallgraphExample" />
+      <module name="CallgraphExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sootup.examples.callgraph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CallgraphExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sootup.examples.callgraph.CallgraphExample" />
+      <module name="CallgraphExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sootup.examples.callgraph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sootup.examples.CallgraphExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sootup.examples.CallgraphExample" />
+      <module name="sootup.examples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sootup.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.sootup.examples.CallgraphExample" />
+        <item itemvalue="Application.CallgraphExample" />
+        <item itemvalue="Application.CallgraphExample (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-liberica-1.8.0_402-3183f394aec4-f669cc6f" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c8dd31a-3727-4407-85ba-05f41e2c28b1" name="Changes" comment="" />
+      <created>1700742277049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700742277049</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
