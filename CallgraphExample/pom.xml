@@ -8,53 +8,68 @@
     <parent>
         <groupId>org.soot-oss</groupId>
         <artifactId>sootup</artifactId>
-        <version>1.1.2-SNAPSHOT</version>
+        <version>2.0.0-SNAPSHOT</version>
     </parent>
 
     <dependencies>
         <dependency>
             <groupId>org.soot-oss</groupId>
             <artifactId>sootup.callgraph</artifactId>
-            <version>1.1.2-SNAPSHOT</version>
+            <version>2.0.0-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>org.soot-oss</groupId>
             <artifactId>sootup.core</artifactId>
-            <version>1.1.2-SNAPSHOT</version>
+            <version>2.0.0-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>org.soot-oss</groupId>
-            <artifactId>sootup.java.bytecode</artifactId>
-            <version>1.1.2-SNAPSHOT</version>
+            <artifactId>sootup.java.bytecode.frontend</artifactId>
+            <version>2.0.0-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>org.soot-oss</groupId>
             <artifactId>sootup.java.core</artifactId>
-            <version>1.1.2-SNAPSHOT</version>
+            <version>2.0.0-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>org.soot-oss</groupId>
-            <artifactId>sootup.java.sourcecode</artifactId>
-            <version>1.1.2-SNAPSHOT</version>
+            <artifactId>sootup.java.sourcecode.frontend</artifactId>
+            <version>2.0.0-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>org.soot-oss</groupId>
-            <artifactId>sootup.jimple.parser</artifactId>
-            <version>1.1.2-SNAPSHOT</version>
+            <artifactId>sootup.jimple.frontend</artifactId>
+            <version>2.0.0-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>org.soot-oss</groupId>
+            <artifactId>sootup.qilin</artifactId>
+            <version>2.0.0-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>org.soot-oss</groupId>
+            <artifactId>sootup.interceptors</artifactId>
+            <version>2.0.0-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>org.soot-oss</groupId>
+            <artifactId>sootup.analysis.interprocedural</artifactId>
+            <version>2.0.0-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>org.soot-oss</groupId>
+            <artifactId>sootup.analysis.intraprocedural</artifactId>
+            <version>2.0.0-SNAPSHOT</version>
+        </dependency>
+
+        <!--Logging Framework Provider-->
+        <dependency>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-classic</artifactId>
+            <version>1.4.14</version>
         </dependency>
     </dependencies>
-
-    <dependencyManagement>
-        <dependencies>
-            <dependency>
-                <groupId>org.soot-oss</groupId>
-                <artifactId>sootup.java.sourcecode</artifactId>
-                <version>1.1.2-SNAPSHOT</version>
-                <type>pom</type>
-                <scope>import</scope>
-            </dependency>
-        </dependencies>
-    </dependencyManagement>
 
     <build>
         <plugins>
@@ -64,6 +79,17 @@
                 <version>${maven-deploy-plugin.version}</version>
                 <configuration>
                     <skip>true</skip>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.8.1</version>
+                <configuration>
+                    <compileSourceRoots>
+                        <compileSourceRoot>${project.basedir}/src/test/resources/Callgraph/source</compileSourceRoot>
+                    </compileSourceRoots>
+                    <outputDirectory>${project.basedir}/src/test/resources/Callgraph/binary</outputDirectory>
                 </configuration>
             </plugin>
         </plugins>
