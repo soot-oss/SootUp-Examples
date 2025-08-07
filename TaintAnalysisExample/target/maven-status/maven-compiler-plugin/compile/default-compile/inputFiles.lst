@@ -1,0 +1,8 @@
+/Users/samarth/IdeaProjects/SootUp-Examples/TaintAnalysisExample/src/main/java/sootup/examples/AnalysisRunner.java
+/Users/samarth/IdeaProjects/SootUp-Examples/TaintAnalysisExample/src/main/java/sootup/examples/TaintAnalysisExample.java
+/Users/samarth/IdeaProjects/SootUp-Examples/TaintAnalysisExample/src/main/java/sootup/examples/TaintAnalysisProblem.java
+/Users/samarth/IdeaProjects/SootUp-Examples/TaintAnalysisExample/src/main/java/sootup/examples/targetcode/BasicTaint.java
+/Users/samarth/IdeaProjects/SootUp-Examples/TaintAnalysisExample/src/main/java/sootup/examples/targetcode/BasicTaintSanitized.java
+/Users/samarth/IdeaProjects/SootUp-Examples/TaintAnalysisExample/src/main/java/sootup/examples/targetcode/FunctionPropagatesTaint.java
+/Users/samarth/IdeaProjects/SootUp-Examples/TaintAnalysisExample/src/main/java/sootup/examples/targetcode/FunctionReturnsTaint.java
+/Users/samarth/IdeaProjects/SootUp-Examples/TaintAnalysisExample/src/main/java/sootup/examples/targetcode/SinkClass.java

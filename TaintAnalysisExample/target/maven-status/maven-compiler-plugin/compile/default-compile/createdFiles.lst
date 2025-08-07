@@ -1,0 +1,9 @@
+sootup/examples/targetcode/BasicTaint.class
+sootup/examples/targetcode/BasicTaintSanitized.class
+sootup/examples/AnalysisRunner.class
+sootup/examples/targetcode/FunctionReturnsTaint.class
+sootup/examples/TaintAnalysisExample.class
+sootup/examples/targetcode/FunctionPropagatesTaint.class
+sootup/examples/TaintAnalysisProblem.class
+sootup/examples/TaintAnalysisProblem$1.class
+sootup/examples/targetcode/SinkClass.class
